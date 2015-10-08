@@ -7,10 +7,10 @@ Device configuration for HTC Desire 820("a51")
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU1    | 1.5GHz Octa Core Snapdragon 612 MSM8993
-CPU2    | 1.0GHz Octa Core Snapdragon 612 MSM8916
+CPU1    | Quad-core 1.5 GHz Cortex-A53
+CPU2    | Quad-core 1.0 GHz Cortex-A53
 GPU     | Adreno 405
-Memory  | 2.0GB RAM
+Memory  | 2.0 GB RAM
 Shipped Android Version | 4.4.2
 Storage | 16GB internal
 Battery | 2600 mAh
